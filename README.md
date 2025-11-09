@@ -18,7 +18,7 @@ Three related tables: `customers`, `products`, `orders` (CSV included).
 - Monthly sales trend
 
 ## Skills
-'SQL' "Data Modeling" "Business Analytics" "Critical Thinking"
+`SQL` · `Data Modeling` · `Business Analytics` · `Critical Thinking`
 
 ## How to run
 1. Create the three tables from `queries/schema.sql`
