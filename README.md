@@ -1,4 +1,3 @@
-# alessandro-data-portfolio
 # Retail Sales Analytics (SQL Project)
 
 ## Goal
